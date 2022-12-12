@@ -1,2 +1,2 @@
-# learn-github
+# pratice-lesson
 Learning how to use github
